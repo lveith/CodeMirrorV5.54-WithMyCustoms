@@ -874,7 +874,9 @@ function myMergeViewOnChanged (myCm, myChange) {
   var i, myElLeft, myElRight, myLast, myNext;
   document.getElementById('myCountDiffs').innerHTML = String(dv.rightChunks().length);
   myElLeft = document.getElementById('myDiffsLeft');
+  if (!myElLeft) return false;
   myElRight = document.getElementById('myDiffsRight');
+  if (!myElRight) return false;
   myElLeft.innerHTML = '';
   myElRight.innerHTML = '';
   myLast = 0;
