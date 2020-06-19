@@ -5,8 +5,7 @@
 - cmds and constants are defined only **static for 4Dv18R3** (please made your own version dynamic if needed)
 - method names has only one fix method-name-example (please fill in your own method-names if needed)
 
-All this keywords cmds/constants/methods/...
-can filled in dynamically with
+### All this keywords cmds/constants/methods/... can filled in dynamically with
 
 #### 4D command
 - "PROCESS 4D TAGS"
