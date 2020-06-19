@@ -8,9 +8,11 @@
 All this keywords cmds/constants/methods/...
 can filled in dynamically with 4D command
 - "PROCESS 4D TAGS"
+
 or with any of this 4D WA commands:
 - "WA EXECUTE JAVASCRIPT FUNCTION"
 - "WA Evaluate JavaScript"
+
 to set a js-var inside the webarea with your own keywords
 and any 4Dversion keywords of currentVersion or virtualStruct from another 4dversion:
 
