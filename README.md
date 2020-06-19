@@ -2,7 +2,7 @@
  Codemirror 5.54 with addional some of my little customs/preparings to use in 4D
 
 ### 4D mode is defined in mode/4d.js
-- cmds and constants are defined only static for 4Dv18R3 (please made your own version dynamic if needed)
+- cmds and constants are defined only **static for 4Dv18R3** (please made your own version dynamic if needed)
 - method names has only one fix method-name-example (please fill in your own method-names if needed)
 
 All this keywords cmds/constants/methods/...
