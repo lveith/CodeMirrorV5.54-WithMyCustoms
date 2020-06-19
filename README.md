@@ -6,10 +6,12 @@
 - method names has only one fix method-name-example (please fill in your own method-names if needed)
 
 All this keywords cmds/constants/methods/...
-can filled in dynamically with 4D command
+can filled in dynamically with
+
+#### 4D command
 - "PROCESS 4D TAGS"
 
-or with any of this 4D WA commands:
+#### or with any of this 4D WA commands:
 - "WA EXECUTE JAVASCRIPT FUNCTION"
 - "WA Evaluate JavaScript"
 
