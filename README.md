@@ -3,6 +3,9 @@
 
 ### Just some demo examples to 4D mode and theme
 - [merge4Dmain with preset mode+theme to 4D](https://lveith.github.io/CodeMirrorV5.54-WithMyCustoms/codemirror-5-54-0_2020-05-20/mp/merge4Dmain.html)
+- [merge4D with preset mode+theme to plain-text](https://lveith.github.io/CodeMirrorV5.54-WithMyCustoms/codemirror-5-54-0_2020-05-20/demo/merge4D.html)
+- [folding4D with preset mode+theme to 4D](https://lveith.github.io/CodeMirrorV5.54-WithMyCustoms/codemirror-5-54-0_2020-05-20/demo/folding4D.html)
+- [mode4Dindex with preset mode+theme to 4D](https://lveith.github.io/CodeMirrorV5.54-WithMyCustoms/codemirror-5-54-0_2020-05-20/mode/4d/index.html)
 
 ### 4D mode is defined in mode/4d.js
 - cmds and constants are defined only **static for 4Dv18R3** (please made your own version dynamic if needed)
