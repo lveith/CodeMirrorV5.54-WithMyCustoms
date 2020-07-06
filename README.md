@@ -1,6 +1,9 @@
 # CodeMirrorV5.54-WithMyCustoms
  Codemirror 5.54 with addional some of my little customs/preparings to use in 4D
 
+### Just some demo examples to 4D mode and theme
+- [merge4Dmain with preset mode+theme to 4D](https://lveith.github.io/CodeMirrorV5.54-WithMyCustoms/codemirror-5-54-0_2020-05-20/mp/merge4Dmain.html)
+
 ### 4D mode is defined in mode/4d.js
 - cmds and constants are defined only **static for 4Dv18R3** (please made your own version dynamic if needed)
 - method names has only one fix method-name-example (please fill in your own method-names if needed)
